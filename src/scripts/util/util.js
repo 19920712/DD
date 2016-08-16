@@ -4,6 +4,9 @@ var util={
 	},
 	aa:function(){
 		console.log("master");
+	},
+	bb:function(){
+		console.log("20160815w");
 	}
 }
 module.exports=util;

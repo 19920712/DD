@@ -18,5 +18,9 @@ require('./views/menu');
 
 //设置默认显示试图
 SPA.config({
+<<<<<<< HEAD
 	indexView:"index"
+=======
+	indexView:"find"
+>>>>>>> 20160815w
 })
